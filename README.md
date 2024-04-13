@@ -2,7 +2,7 @@
 This is my first Repository
 Author : Abhishek Pandey
 
-**here the code fo house credit , bool evdent**
+# here the code fo house credit , bool event 
 
 house_Price = 1000000
 good_credit = False
